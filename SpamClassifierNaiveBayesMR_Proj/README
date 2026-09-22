@@ -1,0 +1,5 @@
+Make sure NaiveBayesMR.py is in current directory
+Open PySpark
+Run the command exec(open("NaiveBayesMR.py").read()
+
+Note: A seed is used in the sampling to ensure the same results as recorded in the document can be obtained for both parts

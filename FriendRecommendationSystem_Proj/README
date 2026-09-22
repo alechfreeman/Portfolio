@@ -1,0 +1,10 @@
+README
+To compile and run code:
+
+Make sure wget, nltk, and sklearn are all installed.
+
+Part 1:
+Make sure MRFriendRec.py is in current directory
+Open PySpark
+Run the command exec(open("MRFriendRec.py").read()
+Ignore warnings
